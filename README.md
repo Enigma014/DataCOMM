@@ -1,5 +1,5 @@
 # DataCOMM
-# Digital Signal Encoding and Longest Palindrome Detection
+# Digital Signal Encoding
 
 ## Assignment Overview
 
